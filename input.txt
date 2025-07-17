@@ -1,0 +1,20 @@
+7
+2
+10
+World
+Asia
+Africa
+India
+China
+SouthAfrica
+Egypt
+1 China 1
+1 India 1
+1 Asia 2
+3 Asia 1
+2 China 1
+1 SouthAfrica 2
+1 Africa 2
+2 SouthAfrica 1
+2 SouthAfrica 2
+1 Africa 2
