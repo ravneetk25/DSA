@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ravneetk25/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/ravneetk25/DSA/tree/master/1975-maximum-matrix-sum) |
 ## Greedy
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ravneetk25/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ravneetk25/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ravneetk25/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
