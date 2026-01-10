@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ravneetk25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ravneetk25/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
