@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ravneetk25/DSA/tree/master/0085-maximal-rectangle) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ravneetk25/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/ravneetk25/DSA/tree/master/1975-maximum-matrix-sum) |
 ## Greedy
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ravneetk25/DSA/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/ravneetk25/DSA/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ravneetk25/DSA/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ravneetk25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ravneetk25/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
@@ -54,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ravneetk25/DSA/tree/master/0176-second-highest-salary) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ravneetk25/DSA/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ravneetk25/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
