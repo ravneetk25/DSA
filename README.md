@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/ravneetk25/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ravneetk25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Database
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/ravneetk25/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0367-valid-perfect-square](https://github.com/ravneetk25/DSA/tree/master/0367-valid-perfect-square) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ravneetk25/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
