@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ravneetk25/DSA/tree/master/0085-maximal-rectangle) |
+| [0560-subarray-sum-equals-k](https://github.com/ravneetk25/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ravneetk25/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ravneetk25/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1895-largest-magic-square](https://github.com/ravneetk25/DSA/tree/master/1895-largest-magic-square) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ravneetk25/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ravneetk25/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ravneetk25/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## String
@@ -117,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ravneetk25/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1895-largest-magic-square](https://github.com/ravneetk25/DSA/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
