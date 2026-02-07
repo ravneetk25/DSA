@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ravneetk25/DSA/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ravneetk25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ravneetk25/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ravneetk25/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ravneetk25/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/ravneetk25/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ravneetk25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ravneetk25/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Database
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ravneetk25/DSA/tree/master/0085-maximal-rectangle) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ravneetk25/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
