@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ravneetk25/DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ravneetk25/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ravneetk25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ravneetk25/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ravneetk25/DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ravneetk25/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0367-valid-perfect-square](https://github.com/ravneetk25/DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/ravneetk25/DSA/tree/master/0507-perfect-number) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ravneetk25/DSA/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ravneetk25/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ravneetk25/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ravneetk25/DSA/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/ravneetk25/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ravneetk25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ravneetk25/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
